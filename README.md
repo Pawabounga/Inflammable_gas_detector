@@ -1,2 +1,2 @@
 # Inflammable_gas_detector
-Projet visant à établir la communication à distance pour détecter un gaz inflammable
+Communication of a TAB5 and a flammable gas sensor 
